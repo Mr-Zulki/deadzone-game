@@ -134,7 +134,7 @@ Built with **C# / WPF** in Visual Studio.
 
 ## 👤 Developer
 
-https://github.com/Mr-Zulki|
+https://github.com/Mr-Zulki
 
 ---
 
